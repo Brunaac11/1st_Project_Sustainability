@@ -3,6 +3,8 @@ DataSet Options:Sustainable Development Goals
 - https://www.kaggle.com/datasets/tompaulat/un-sustainable-development-goals-in-germany
 - https://sdgs.un.org/goals
 - https://unstats.un.org/sdgs/dataportal
+- https://open.canada.ca/data/en/dataset/779c7bcf-4982-47eb-af1b-a33618a05e5b
+- https://data.ec.gc.ca/data/substances/monitor/canada-s-official-greenhouse-gas-inventory/?lang=en
 
 Goal 13: Take urgent action to combat climate change and its impacts.
 -	13.1: Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries
