@@ -3,8 +3,8 @@ DataSet Options:Sustainable Development Goals
 - https://www.kaggle.com/datasets/tompaulat/un-sustainable-development-goals-in-germany
 - https://sdgs.un.org/goals
 - https://unstats.un.org/sdgs/dataportal
-
-TESTE
+- https://data.ec.gc.ca/data/substances/monitor/canada-s-official-greenhouse-gas-inventory/?lang=en
+- https://www.canada.ca/en/environment-climate-change/services/climate-change/greenhouse-gas-emissions/inventory.html
 
 Goal 13: Take urgent action to combat climate change and its impacts.
 
